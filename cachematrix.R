@@ -1,8 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Define getters and setters functions and the matrix_store object that persists within the
-## environment of makeCacheMatrix.
+## This function define the getters and setters methods as well as the matrix_store object
+## that persists within the environment of makeCacheMatrix.
 
 makeCacheMatrix <- function(x = matrix()) {
   matrix_store <- NULL
